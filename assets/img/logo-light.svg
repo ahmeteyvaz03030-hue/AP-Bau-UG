@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" role="img" aria-label="AP-Bau UG Meisterbetrieb">
+  <defs>
+    <linearGradient id="apgl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffc247"/>
+      <stop offset="100%" stop-color="#f09000"/>
+    </linearGradient>
+  </defs>
+  <path d="M38 6 L68 20 v22c0 16-12 28-30 34C20 70 8 58 8 42V20Z" fill="url(#apgl)"/>
+  <path d="M38 20 L56 30 v9H20v-9Z" fill="#10151b"/>
+  <rect x="24" y="43" width="12" height="9" rx="1.5" fill="#10151b"/>
+  <rect x="40" y="43" width="12" height="9" rx="1.5" fill="#10151b"/>
+  <rect x="24" y="56" width="28" height="6" rx="1.5" fill="#10151b"/>
+  <text x="84" y="42" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5" fill="#ffffff">AP-Bau</text>
+  <text x="212" y="42" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5" fill="#ffb020">UG</text>
+  <text x="85" y="62" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="3.6" fill="#9aa6b2">MEISTERBETRIEB</text>
+</svg>
